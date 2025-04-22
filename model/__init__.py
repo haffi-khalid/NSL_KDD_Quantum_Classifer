@@ -1,0 +1,2 @@
+from model.quantum_model import create_quantum_model
+from model.cnn import create_cnn_model

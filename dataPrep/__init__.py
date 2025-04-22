@@ -1,0 +1,1 @@
+from dataPrep.preprocess_nslkdd_cnn import preprocess_for_cnn
